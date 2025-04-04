@@ -1,0 +1,4 @@
+flask==2.3.3 
+pinecone 
+PyPDF2
+python-dotenv
