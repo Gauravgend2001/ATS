@@ -49,5 +49,5 @@ we can process architecture very fast
 
 
 
-For any issues or improvements, please open an issue in the repository.
+For any issues error or improvements, please open an issue in the repository.
 
